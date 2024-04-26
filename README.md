@@ -1,3 +1,4 @@
+Questions.
 1. Give an array of size n, as well as return the majority element from the array.
 2. Give an input to the string; reverse the order of the words in the string.
    Note: If there are spaces on the left and right sides of the given string, they
