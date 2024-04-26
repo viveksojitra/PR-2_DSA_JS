@@ -5,4 +5,4 @@
 Note: If there are spaces on the left and right sides of the given string, they
 must be removed when the string is reversed.
 
-3. Use two strings, string1 and string2, and return the index of the first occurrence of string2 in string1, or -1 if string2 is not found in string1. 
+4. Use two strings, string1 and string2, and return the index of the first occurrence of string2 in string1, or -1 if string2 is not found in string1. 
